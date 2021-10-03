@@ -1,0 +1,13 @@
+main: chemical.sans.MainPlugin
+name: SansPlugin
+version: 1.0
+api-version: 1.16
+author: ChemicalSans
+description: An Example plugin
+commands:
+  test:
+    description: SimpleTest Command!
+  items:
+    description: Gives you all Items!
+  drone:
+    description: Adds more drones!

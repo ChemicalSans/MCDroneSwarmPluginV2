@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MCDroneSwarmPluginV2:jar">
+    <output-path>$PROJECT_DIR$/../spigot_minecraft_server/plugins</output-path>
+    <root id="archive" name="MCDroneSwarmPluginV2.jar">
+      <element id="module-output" name="MCDroneSwarmPluginV2" />
+    </root>
+  </artifact>
+</component>
